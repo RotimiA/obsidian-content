@@ -13,24 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "content-vault/templates/Test Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Test Note"
             }
           },
           {
-            "id": "3a661d179346941a",
+            "id": "6ed530e2b00b706d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.10"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -163,13 +165,23 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "77b35cd1bd33cc13",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,14 +198,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7b57c3f242b42bf0",
+  "active": "6ed530e2b00b706d",
   "lastOpenFiles": [
+    "content-vault/templates/Test Note.md",
+    "Untitled.md",
     "WARP.md",
+    "Welcome.md",
     "content-vault/templates",
     "content-vault/Untitled",
     "content-vault/dashboards",
     "content-vault/audio",
-    "Welcome.md",
     "i",
     "content-vault/posts",
     "content-vault"
