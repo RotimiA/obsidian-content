@@ -1,0 +1,13 @@
+# OS Junk
+.DS_Store
+
+# Obsidian volatile state
+.obsidian/workspace*
+.obsidian/workspace.json
+.obsidian/cache
+
+# Obsidian trash
+.trash/
+
+# Plugin session data (optional)
+.obsidian/plugins/obsidian-excalidraw-plugin/data.json
